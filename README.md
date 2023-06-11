@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Exieez
-- 👀 I’m interested in being more active on here and making more scripts
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on selfbots & maybe websites.
-- 📫 How to reach me usually thru my discord which is on my website. If not my email is also linked on my site. Any way works.
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/738981890043805707)
